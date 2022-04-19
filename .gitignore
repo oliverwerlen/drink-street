@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -24,6 +25,13 @@ target/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+=======
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+>>>>>>> 2879a37 (initial commit)
 
 ### STS ###
 .apt_generated
@@ -39,6 +47,10 @@ hs_err_pid*
 *.iws
 *.iml
 *.ipr
+<<<<<<< HEAD
+=======
+.jpb/*
+>>>>>>> 2879a37 (initial commit)
 
 ### NetBeans ###
 /nbproject/private/
@@ -52,4 +64,8 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
 .DS_Store
+=======
+.mvn
+>>>>>>> 2879a37 (initial commit)
