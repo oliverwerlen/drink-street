@@ -47,10 +47,7 @@ target/
 *.iws
 *.iml
 *.ipr
-<<<<<<< HEAD
-=======
 .jpb/*
->>>>>>> 2879a37 (initial commit)
 
 ### NetBeans ###
 /nbproject/private/
